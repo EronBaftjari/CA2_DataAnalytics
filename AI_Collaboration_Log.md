@@ -5,3 +5,7 @@
 * AI helped me evalute on certain questions i could ask like , "Which groups seem to have a higher rate then avergae and compare the,"
 * AI gave me help writing the Hisograms and diagrams and gave me pointers on what should
 
+-Only used numbers that came from running the code myself
+-Caught that I’d misread “0–9y” as an age group when it’s driving experience
+-Claude itself corrected a wrong claim in its own draft (median vs skew). That’s a good example of why AI output needs checking.
+
