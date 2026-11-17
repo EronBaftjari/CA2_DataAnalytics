@@ -1,6 +1,6 @@
 # Predicting Car Insurance Claims – CA2 CRISP-DM Project
 
-Eron Baftjari (T00270078) – DBMS71008 Data Analytics, MTU
+Eron Baftjari (T00253602) – DBMS71008 Data Analytics, MTU
 
 ## Question
 Which facts about a driver, their car and their driving record best show if someone is likely to make a car insurance claim, and how well can a model predict it?
@@ -14,5 +14,5 @@ To run the notebook, download Car_Insurance_Claim.csv from the link above and pu
 
 ## How to run
 1. pip install -r requirements.txt
-2. Open notebooks/T00270078_Baftjari_CA2_Notebook.ipynb in VS Code or Jupyter
+2. Open notebooks/T00253602_Baftjari_CA2_Notebook.ipynb in VS Code or Jupyter
 3. Run all cells from the top
