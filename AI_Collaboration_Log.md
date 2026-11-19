@@ -20,5 +20,5 @@ This log records significant AI interactions for the AIAS Level 3 requirement. I
 |17-Nov-2026| Data Qaulity report - Outliers and unusual values | I asked AI to explain what it is and what i could mention AI Produced 'Check weather values are strange to be in a model  check 1. Very high counts, 2. Rounded values, 3. Postal code , 4. New drivers have zero of everything'| I decided to go ahead with these checks|
 |17-Nov 2026|Outliers and unusual values| AI produced that i should check the 2 patterns that was found earlier which was new drivers and postal codes in Q1| I Decided to check these patterns|
 |17-Nov - 2026| Outlier and unusual values Code | Ai suggested I check the IQR way to which will give me the Potential Outliers | I then choose to Apply these to give my Qaulity report a more accurate Reponse |
-
+|19-Nov-2026| Data preperation-Priority issues | Ai Suggested i should check the Postal Code issue and target imbalanced | I decided to use these and move Forward with my Data preperation |
 
